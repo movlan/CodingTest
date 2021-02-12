@@ -1,0 +1,6 @@
+Debug: Could not find specified path.
+Error: build during 2018-12-10 01:02:03 failed!
+Warning: build of repository did not complete! Exiting!
+Warning: too many login attempts for user 'tyvak'.
+Invalid build specified for repository 'tyvak'.
+Invalid build specified for repository 'terran_orbital'.

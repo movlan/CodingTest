@@ -1,0 +1,4 @@
+id,error_message
+0,Error: build during 2018-12-10 01:02:03 failed!
+1,Warning: build of repository did not complete!
+2,Invalid build specified for repository 'tyvak'
